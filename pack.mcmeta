@@ -2,6 +2,6 @@
 {
   "pack": {
     "pack_format": 1,
-    "description": "lib for nbt crafting in 1.13+"
+    "description": "library for nbt crafting in 1.13+"
   }
 }
